@@ -4,7 +4,20 @@
 
 - Simple repo that contains the soultions of all image processing course labs
 
-## 💻 Implemented By
+<br>
+
+## 💻 Lab 1
+
+- Understanding the basics of Python, Jupyter, Skimage
+- Reading an image and then plot it
+- Indexing Numpy matrices
+- HSV colormap
+- Function with positional or keyword arguments
+- Understand the effect of noise on images and how to produce it
+- Understand Histogram
+- Get histogram for different images and understand the difference
+
+## 👨‍💻 Implemented By
 
 - **Python**
 
