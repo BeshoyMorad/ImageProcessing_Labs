@@ -17,9 +17,31 @@
 - Understand Histogram
 - Get histogram for different images and understand the difference
 
+## 💻 Lab 2
+
+- Learn the concept of Convolution in the space domain
+- Learn the concept of Inverse Fourier Transform
+- Learn the concept of Multiplication in frequency domain
+
+## 💻 Lab 3
+
+- Median filter algorithm
+- Gaussion Filters
+
+## 💻 Lab 4
+
+- Know the effect of Negative transformation
+- Know the effect of contrast enhancement
+- Know the effect of gamma correction
+- Understand and implement Histogram Equalization
+
+<br>
+
 ## 👨‍💻 Implemented By
 
 - **Python**
+
+<br>
 
 ## Contributors
 
