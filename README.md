@@ -35,7 +35,11 @@
 - Know the effect of gamma correction
 - Understand and implement Histogram Equalization
 
-<br>
+## 💻 Lab 5
+
+- Apply and notice the differences between edge detection techniques
+- Understand the effect of different parameters used in edge detection techniques.
+- Learn and implement "Sobel operator" and "LOG" edge detection techniques.
 
 ## 👨‍💻 Implemented By
 

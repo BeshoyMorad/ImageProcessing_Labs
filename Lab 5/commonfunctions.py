@@ -12,7 +12,7 @@ from scipy.signal import convolve2d
 from scipy import fftpack
 import math
 
-from skimage.util import random_noise
+from skimage.util import random_noise, img_as_ubyte
 from skimage.filters import median , gaussian
 from skimage.feature import canny
 
