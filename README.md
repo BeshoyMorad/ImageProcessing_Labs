@@ -38,8 +38,14 @@
 ## 💻 Lab 5
 
 - Apply and notice the differences between edge detection techniques
-- Understand the effect of different parameters used in edge detection techniques.
-- Learn and implement "Sobel operator" and "LOG" edge detection techniques.
+- Understand the effect of different parameters used in edge detection techniques
+- Learn and implement "Sobel operator" and "LOG" edge detection techniques
+
+## 💻 Lab 6
+
+- Apply and notice the differences between Erosion / Dilation
+- Case study: Credit Card Number Extraction
+- Understand the effect of Skeletonization
 
 ## 👨‍💻 Implemented By
 
