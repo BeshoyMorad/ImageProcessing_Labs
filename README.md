@@ -47,11 +47,20 @@
 - Case study: Credit Card Number Extraction
 - Understand the effect of Skeletonization
 
+## 💻 Lab 7
+
+- Learn how to deal with pixel level values with minimum usage of already-implemented functions.
+- Learn simple threshold technique(s).
+
+## 💻 Lab 8
+
+- Learn adaptive thresholding technique(s).
+
+<br>
+
 ## 👨‍💻 Implemented By
 
 - **Python**
-
-<br>
 
 ## Contributors
 
