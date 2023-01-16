@@ -56,6 +56,13 @@
 
 - Learn adaptive thresholding technique(s).
 
+## 💻 Lab 9
+
+- Case study: Segment a photo into 3 segments: 
+	1. Segment for clothes with a jeans texture
+	2. Segment for clothes with a cotton texture
+	3. Segment for the background
+
 <br>
 
 ## 👨‍💻 Implemented By
